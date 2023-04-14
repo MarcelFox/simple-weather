@@ -4,7 +4,7 @@ services:
   app:
     image: node:18.15-alpine
     labels: 
-      project: "charlie-front"
+      project: "weather-front"
     volumes:
      - "./:/app"
     working_dir: "/app"

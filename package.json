@@ -1,5 +1,5 @@
 {
-  "name": "challenge-charlie",
+  "name": "simple-weather",
   "version": "0.0.1",
   "description": "Reponsive SPA for weather forecast",
   "main": "index.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarcelFox/challenge-charlie.git"
+    "url": "git+https://github.com/MarcelFox/simple-weather.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "MarcelFox",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MarcelFox/challenge-charlie/issues"
+    "url": "https://github.com/MarcelFox/simple-weather/issues"
   },
-  "homepage": "https://github.com/MarcelFox/challenge-charlie#readme",
+  "homepage": "https://github.com/MarcelFox/simple-weather#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.18.2",
